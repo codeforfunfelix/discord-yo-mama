@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "camb-dict": "^1.0.0",
+    "discord.js": "^13.3.1"
+  }
+}
